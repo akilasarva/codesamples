@@ -11,6 +11,8 @@ Compilation of code in various languages (Python, Java, C++, Arduino)
 
 5) encoder_motor_control.ino - Arduino code to use the encoder in a DC motor for better control 
 
-6) lunar_landing_sim.py - Python code for simulation of low altitude descent of a lunar lander (summer internship work)
+6) greedy_drone_scheduler.py - Python code for greedy algorithm to schedule drone deployment to enfore continuous data collection (have drones located at predetermined sampling locations as consistently as possible)
 
-7) upsampling_lunar_lander.py - Python code for zooming in and enlarging the FOV of images inputted; specifically integrated with lunar lander project
+7) lunar_landing_sim.py - Python code for simulation of low altitude descent of a lunar lander (summer internship work)
+
+8) upsampling_lunar_lander.py - Python code for zooming in and enlarging the FOV of images inputted; specifically integrated with lunar lander project
